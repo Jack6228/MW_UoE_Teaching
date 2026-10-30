@@ -6,9 +6,13 @@ This ``Demo_Notebook.ipynb`` notebook is designed to help you learn how to use t
 
 These exercises are designed to be run online without the need to install Python or any software on your device.
 
-Click the badge below or visit [https://mybinder.org/v2/gh/Jack6228/MW_UoE_Teaching/main?filepath=Demo_Notebook.ipynb](https://mybinder.org/v2/gh/Jack6228/MW_UoE_Teaching/main?filepath=Demo_Notebook.ipynb) to launch the notebook in your browser.
+Click the badge below or [click this link](https://mybinder.org/v2/gh/Jack6228/MW_UoE_Teaching/main?filepath=Demo_Notebook.ipynb) to launch the notebook in your browser.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jack6228/MW_UoE_Teaching/main?filepath=Demo_Notebook.ipynb>)
+<div align="center">
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jack6228/MW_UoE_Teaching/main?filepath=Demo_Notebook.ipynb)
+
+</div>
 
 ## 📋 Contents
 
@@ -21,4 +25,20 @@ Click the badge below or visit [https://mybinder.org/v2/gh/Jack6228/MW_UoE_Teach
 
 We also provide a notebook which visualises the solutions to each of the three logs in the exercises. Click the button below to launch the solutions notebook in your browser.
 
+<div align="center">
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jack6228/MW_UoE_Teaching/main?filepath=answers/solutions.ipynb)
+
+</div>
+
+## Useful Links
+
+For additional resources, such as documentation, a full stratapy tutorial notebook, and the GitHub repository for the stratapy package, please visit the following links:
+
+<div align="center">
+
+[![Docs](https://img.shields.io/badge/Documentation-latest-129296?logo=readthedocs)](https://stratapy.readthedocs.io/en/latest/?badge=latest)
+[![Open In Colab](https://img.shields.io/badge/Tutorial-Notebook-FCB001?logo=readthedocs)](https://colab.research.google.com/github/Jack6228/stratapy/blob/main/examples/Tutorial.ipynb)
+[![GitHub](https://img.shields.io/badge/GitHub-stratapy-da9ae6?logo=github)](https://github.com/Jack6228/stratapy)
+
+</div>
