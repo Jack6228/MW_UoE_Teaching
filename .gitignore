@@ -1,0 +1,13 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache & environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS metadata
+.DS_Store
+Thumbs.db
