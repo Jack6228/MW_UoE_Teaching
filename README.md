@@ -2,9 +2,9 @@
 
 This ``Demo_Notebook.ipynb`` notebook is designed to help you learn how to use the ``stratapy`` package for visualising and analysing core log data. It includes exercises that will guide you through loading, plotting, and saving core log data.
 
-## 🚀 Run Interactively on MyBinder
+## Run Interactively on MyBinder
 
-These exercises are designed to be run online without the need to install Python or any software on your device.
+These exercises are designed to be run online without the need to install Python or any software on your device, or create an account on any platform.
 
 Click the badge below or [click this link](https://mybinder.org/v2/gh/Jack6228/MW_UoE_Teaching/main?filepath=Demo_Notebook.ipynb) to launch the notebook in your browser.
 
@@ -14,7 +14,7 @@ Click the badge below or [click this link](https://mybinder.org/v2/gh/Jack6228/M
 
 </div>
 
-## 📋 Contents
+## Contents
 
 - `Demo_Notebook.ipynb`: The main notebook containing exercises and instructions for using the ``stratapy`` package.
 - Two tutorial ``.csv`` files based on the 49-22-55 core log
